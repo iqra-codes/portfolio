@@ -64,3 +64,11 @@ a{
 color:#22c55e;
 text-decoration:none;
 }
+
+/* Contact icons styling */
+
+.card i{
+margin-right:10px;
+color:#22c55e;
+font-size:18px;
+}
